@@ -1,4 +1,4 @@
-This project's goal is to be able to create a 3D single-player RPG in the Mossflower world, based on Cryengine3.
+This project's goal is to be able to create a 3D single-player RPG in the Mossflower world, based on Unity 3D & C#.
 
 Currently, the game is being designed conceptually.
 
